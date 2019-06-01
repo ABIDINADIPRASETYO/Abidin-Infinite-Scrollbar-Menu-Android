@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/enls_ic_local_taxi"
+        android:title="berkendara"
+        tools:ignore="HardcodedText,PrivateResource"/>
+    <item
+        android:icon="@drawable/enls_ic_account_balance"
+        android:title="kantor"
+        tools:ignore="HardcodedText,PrivateResource"/>
+    <item
+        android:icon="@drawable/enls_ic_alarm"
+        android:title="alarm"
+        tools:ignore="HardcodedText,PrivateResource"/>
+    <item
+        android:icon="@drawable/enls_vector_brush_white_24dp"
+        android:title="brush"
+        tools:ignore="HardcodedText,PrivateResource"/>
+    <item
+        android:icon="@drawable/enls_vector_camera_alt_white_24dp"
+        android:title="kamera"
+        tools:ignore="HardcodedText,PrivateResource"/>
+    <item
+        android:icon="@drawable/enls_vector_landscape_white_24dp"
+        android:title="panorama"
+        tools:ignore="HardcodedText,PrivateResource"/>
+    <item
+        android:icon="@drawable/enls_vector_palette_white_24dp"
+        android:title="palette"
+        tools:ignore="HardcodedText,PrivateResource"/>
+    <item
+        android:icon="@drawable/enls_vector_moon_white_24dp"
+        android:title="mode malam"
+        tools:ignore="HardcodedText,PrivateResource"/>
+
+</menu>
